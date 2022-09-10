@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yashaswini M
+- 👀 I’m interested in coding and creating the projects on different problem statements
+- 🌱 I’m currently persuing my BE in Information Science and Engineering and learning AI and ML  
+- 📫 How to reach me http://linkedin.com/in/yashaswini-m-a2b599215
